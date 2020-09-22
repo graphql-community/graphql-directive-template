@@ -17,7 +17,7 @@
     "graphql-tools": "^3.0.4"
   },
   "devDependencies": {
-    "apollo-server-express": "^2.11.0",
+    "apollo-server-express": "^2.14.2",
     "body-parser": "^1.18.3",
     "eslint": "^6.8.0",
     "eslint-config-callstack-io": "^1.1.2",
